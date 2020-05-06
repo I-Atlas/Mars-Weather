@@ -9,16 +9,16 @@
     <br>
 </h1>
 
-# Description
+## Description
 
 React app Mars Weather tracks the weather in Elysium Planitia.
 
-# [API](https://api.nasa.gov/)
+## [API](https://api.nasa.gov/)
 
 You need to put your API key in .env file.
 The variable name must begin with **REACT_APP**
 
-### For example:
+#### For example:
 
 * `REACT_APP_API_KEY`=1234567
 
